@@ -1,0 +1,29 @@
+h1 {
+  font-size: 45px;
+}
+body {
+  font-family:'Cambay', Arial, Helvetica, sans-serif;
+  background-color: #c7c7c7;
+  background-image: transparent;
+  text-align:center;
+}
+p {
+  color: #12142e;
+}
+.fortes {
+  color: #550f0f;
+}
+.button {
+  color: rgb(238, 225, 225);
+  background-color: #85a38e;
+  padding: 10px 20px;
+  border-radius: 15%;
+  text-decoration: none;
+  font-weight:700;
+  font-size:large;
+}
+.palavras {
+font-weight: lighter;
+text-decoration: none;
+color: #40447a;
+}
