@@ -1,11 +1,18 @@
+#meuNome {
+  text-align: center;
+}
 h1 {
   font-size: 45px;
+  margin: 0.25%
+}
+#description {
+  padding: 10px;
+  margin-top: 3%;
 }
 body {
   font-family:'Cambay', Arial, Helvetica, sans-serif;
   background-color: #c7c7c7;
-  background-image: transparent;
-  text-align:center;
+  padding: 3%;
 }
 p {
   color: #12142e;
@@ -26,4 +33,19 @@ p {
 font-weight: lighter;
 text-decoration: none;
 color: #40447a;
+}
+#minha-foto {
+  float: left;
+  height: 280px;
+  padding: 10px;
+  background-color: gray;
+  margin-right: 10px;
+}
+.image-container {
+  margin-bottom: 4%;
+  height: auto;
+}
+
+div {
+  border: 2px solid transparent;
 }
